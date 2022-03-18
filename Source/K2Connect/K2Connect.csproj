@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Build">
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Label="Package">
+    <Product>K2Connect</Product>
+    <Description>Unofficial .NET SDK for the Kopo Kopo API</Description>
+    <PackageTags>Kopo Kopo;K2 Connect</PackageTags>
+  </PropertyGroup>
+
+</Project>
