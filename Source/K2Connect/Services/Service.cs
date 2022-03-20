@@ -5,7 +5,6 @@ namespace K2Connect.Services;
 /// </summary>
 public abstract class Service
 {
-
     /// <summary>
     /// Initializes a new instance of the <see cref="Service"/> class.
     /// </summary>
