@@ -7,4 +7,4 @@
 [![GitHub Actions Build History](https://buildstats.info/github/chart/sixpeteunder/K2Connect?branch=main&includeBuildsFromPullRequest=false)](https://github.com/sixpeteunder/K2Connect/actions)
 
 
-Unofficial .NET SDK for the Kopo Kopo API
+[WIP] Unofficial .NET SDK for the Kopo Kopo API
